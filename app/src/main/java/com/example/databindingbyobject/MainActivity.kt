@@ -17,6 +17,6 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun createStudent(): Student {
-        return Student("richardekong290@gmail.com", "Richard",29)
+        return Student("dev@mail.com", "Vlad",16)
     }
 }
